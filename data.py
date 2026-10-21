@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 NutriVault - Production Data Ingestion & ETL Pipeline (v9)
 ==========================================================
